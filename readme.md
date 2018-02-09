@@ -1,4 +1,4 @@
-###Config Example
+# Config Example
 
 Configuration codes are something which you really want to hide away from users.
 If you go back to my first commit on this repo and look into script.js. You can see all of my secure information i needed for the Instagram API.
